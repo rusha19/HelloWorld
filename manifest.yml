@@ -1,0 +1,8 @@
+---
+applications:
+- name: HelloWorldManifest
+  memory: 512M
+  instances: 4
+
+
+
